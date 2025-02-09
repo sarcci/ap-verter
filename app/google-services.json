@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "671076863105",
+    "project_id": "verter-110a2",
+    "storage_bucket": "verter-110a2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671076863105:android:1064947b81ba6751f39180",
+        "android_client_info": {
+          "package_name": "com.example.verter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwqLK3P3vZ396mQAJ1O1AI9ABU_ev--aU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

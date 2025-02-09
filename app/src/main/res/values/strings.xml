@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Verter</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign In</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="action_sign_up">"Sign Up"</string>
+    <string name="slogan">"Have Control."</string>
+    <string name="action_log_out">"Log Out"</string>
+    <string name="err">Unidentified</string>
+    <string name="confirm_logout">Confirm Logout</string>
+    <string name="sure">Are you sure you want to logout?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="preference_file_key">com.example.Verter.PREFERENCE_FILE_KEY</string>
+    <string name="amount">amount</string>
+    <string name="spent"> out of </string>
+    <string name="change"><u>Change limit</u></string>
+    <string name="addExp">Add expense</string>
+    <string name="add">Add</string>
+    <string name="ch">Change</string>
+    <string name="nova">Add category</string>
+    <string name="nova2">New category</string>
+    <string name="request">Send</string>
+    <string name="send">Enter your friend\'s e-mail</string>
+    <string name="friend">Send a request</string>
+    <string name="friends">Friends</string>
+    <string name="requests">Requests</string>
+    <string name="oth">Sharing</string>
+    <string name="add_friend">Add friend</string>
+    <string name="fexp">Click to view expenses</string>
+    <string name="uname">Enter username</string>
+    <string name="confirm">Confirm</string>
+    <string name="pie_text_front"><b>Pie of the month</b></string>
+    <string name="chart_text"><b>Monthly review</b></string>
+</resources>

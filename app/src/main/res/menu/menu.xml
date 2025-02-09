@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    >
+    <item
+        android:id="@+id/action_search"
+        android:title="Help"
+        android:icon="@drawable/help"
+        android:orderInCategory="5"
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/action_settings"
+        android:title="Settings"
+        android:icon="@drawable/settings"
+        android:orderInCategory="4"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/action_friend"
+        android:title="Add a friend"
+        android:icon="@drawable/friends"
+        android:orderInCategory="2"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/action_statistics"
+        android:title="Statistics"
+        android:icon="@drawable/statistics"
+        android:orderInCategory="3"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/action_out"
+        android:title="Log Out"
+        android:icon="@drawable/out"
+        android:orderInCategory="6"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/action_notif"
+        android:title="Notification"
+        android:icon="@drawable/help"
+        android:orderInCategory="7"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/action_home"
+        android:title="Home"
+        android:icon="@drawable/home"
+        android:orderInCategory="1"
+        app:showAsAction="ifRoom"/>
+</menu>
