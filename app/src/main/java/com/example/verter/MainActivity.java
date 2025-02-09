@@ -160,9 +160,9 @@ public class MainActivity extends AppCompatActivity {
                     double am1 = c2.getInt(indexC2);
                     double am2 = c3.getInt(indexC3);
                     if (am1 > am2) {
-                        notifText = "Your expenses were up " + (int) (((am1 - am2) / am1) * 100) + "% last month, for an average of " + (int) (am1/12) + " $ per day";
+                        notifText = "Your expenses were up " + (int) (((am1 - am2) / am1) * 100) + "% last month, for an average of " + (int) (am1/30) + " $ per day";
                     } else if (am1 <= am2) {
-                        notifText = "Your expenses were down " +(int) (((am2 - am1) / am2) * 100) + "% last month, for an average of " + (int) (am1/12) + " $ per day";
+                        notifText = "Your expenses were down " +(int) (((am2 - am1) / am2) * 100) + "% last month, for an average of " + (int) (am1/30) + " $ per day";
                     }
                 }
                 NotificationManager notificationManager = (NotificationManager) getSystemService(Context.NOTIFICATION_SERVICE);
