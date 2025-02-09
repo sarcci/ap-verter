@@ -11,6 +11,7 @@
 
 - Log your daily expenses in the app
 - Different categories of expenses (Food, Bills, Travel, Shopping etc.)
+- Set monthly limit for each category
 - Add your categories
 - View statistics of your expenses to have sense of your spending habits
 - Scroll through the history of your expenses 
