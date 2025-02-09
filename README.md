@@ -9,6 +9,7 @@
 
 ### Functionalities ###
 
+- Register with e-mail, add username, login, logout
 - Log your daily expenses in the app
 - Different categories of expenses (Food, Bills, Travel, Shopping etc.)
 - Set monthly limit for each category
