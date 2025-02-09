@@ -17,3 +17,4 @@
 - Bar charts to show monthly expenses throughout the year
 - Pie chart to show the expenses of the current month
 - Allow friends to see your expenses in the different categories
+- A notification on the first of the month to compare your spending with the previous month 
