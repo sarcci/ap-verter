@@ -19,6 +19,9 @@
 - Bar charts to show monthly expenses throughout the year
 - Pie chart to show the expenses of the current month
 - Allow friends to see your expenses in the different categories
+- By adding a friend, you send a request to view their expenses
+- By accepting a friend, you share your spending habits with them
+- Stop sharing at any time
 - A notification on the first of the month to compare your spending with the previous month
 
 ![01](https://github.com/user-attachments/assets/de043aa6-1c7f-4cd1-91c6-bbfb06f75dbd)
